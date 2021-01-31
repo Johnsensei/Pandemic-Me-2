@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"World of Losing","order":1,"parentId":0,"scrollX":645.6,"scrollY":423},
-{"id":2,"expanded":false,"name":"Cafe","order":2,"parentId":1,"scrollX":645.6,"scrollY":423},
+{"id":2,"expanded":false,"name":"Cafe","order":2,"parentId":1,"scrollX":650.4,"scrollY":413.4},
 {"id":3,"expanded":true,"name":"Concert","order":3,"parentId":1,"scrollX":645.6,"scrollY":423},
 {"id":4,"expanded":false,"name":"Restaurant","order":4,"parentId":1,"scrollX":645.6,"scrollY":423},
 {"id":5,"expanded":true,"name":"World of Finding","order":7,"parentId":0,"scrollX":645.6,"scrollY":423},
@@ -10,9 +10,9 @@ null,
 {"id":8,"expanded":true,"name":"Puzzle 3","order":10,"parentId":5,"scrollX":717.3333333333334,"scrollY":470},
 {"id":9,"expanded":true,"name":"Puzzle 4","order":11,"parentId":5,"scrollX":832,"scrollY":640},
 {"id":10,"expanded":true,"name":"Puzzle 5","order":12,"parentId":5,"scrollX":717.3333333333334,"scrollY":470},
-{"id":11,"expanded":true,"name":"Ending","order":14,"parentId":0,"scrollX":717.3333333333334,"scrollY":470},
-{"id":12,"expanded":false,"name":"Game Shop","order":5,"parentId":1,"scrollX":645.6,"scrollY":423},
-{"id":13,"expanded":false,"name":"Movie Theater","order":6,"parentId":1,"scrollX":645.6,"scrollY":423},
-{"id":14,"expanded":false,"name":"Empty Events","order":15,"parentId":0,"scrollX":645.6,"scrollY":423},
+{"id":11,"expanded":true,"name":"Ending","order":14,"parentId":0,"scrollX":645.6,"scrollY":423},
+{"id":12,"expanded":false,"name":"Game Shop","order":5,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":13,"expanded":false,"name":"Movie Theater","order":6,"parentId":1,"scrollX":832,"scrollY":640},
+null,
 {"id":15,"expanded":true,"name":"Puzzle Tutorial","order":13,"parentId":5,"scrollX":645.6,"scrollY":423}
 ]

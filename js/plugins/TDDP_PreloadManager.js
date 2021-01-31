@@ -128,7 +128,8 @@ TDDP.bootPreloadImages = {
 */    
     //TODO Still waiting on finalized sprite sheets for things like COVID bombs.
     character: [
-        "character_spritesheet"
+        "character_spritesheet",
+        "pandemicme_spritesheet01"
     ],
 
 
@@ -141,13 +142,20 @@ TDDP.bootPreloadImages = {
     picture: [
         "Lost 192x240",
         "Lost 240x384 Concert",
-        "buildinginteriortemplate",
         "player_home",
-        "concertstage"
+        "john_icon_transparent144",
+        "HitRed",
+        "HitSkyBlue",
+        "HitYellow"
     ],
 
     parallax: [
-        "WOLmap"
+        "!WOLmap",
+        "!boardgamestore",
+        "!concert_venue",
+        "!movietheater",
+        "!restaurant",
+        "!study_cafe"
      ],
 
 
@@ -162,7 +170,12 @@ TDDP.bootPreloadImages = {
 TDDP.bootPreloadBGM = [
     "wol_theme",
     "wof_theme",
-    "title_theme"
+    "title_theme",
+    "the_end",
+    "wol_postpuz1",
+    "wol_postpuz2",
+    "wol_postpuz3",
+    "wol_postpuz4"
 ]
 /*
 *
